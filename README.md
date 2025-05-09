@@ -25,4 +25,4 @@ Here’s a glimpse of my favorite tools and technologies:
 - **Languages**: Python, Java, JavaScript
 - **Web**: React, HTML, CSS
 - **Tools**: Git, GitHub, VS Code
--**Frameworks**:  Django
+- **Frameworks**:  Django
